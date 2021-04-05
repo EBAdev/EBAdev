@@ -2,11 +2,13 @@
 
 -  👨🏽‍💻 I have experience in ML but currently im learning web dev.
 
-- 🌱 my current project is: a laravel app with vue.js and vuetify
+- 🌱 My current project is: a laravel app with vue.js and vuetify
 
-- 📫 contact me at: emil.aagaard8@gmail.com
+- 📫 Contact me at: emil.aagaard8@gmail.com
 
-- 👀 looking for opensouce repos that need contributing
+- 👀 Looking for opensouce repos that need contributing
+
+- 📚 I've written code in: Processing (Java), basic web dev (HTML, PHP, CSS and MySql) 
 
 <!---
 EBAdev/EBAdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
