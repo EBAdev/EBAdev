@@ -2,7 +2,7 @@
 
 -  👨🏽‍💻 I have experience in ML but currently im learning web dev.
 
-- 🌱 My current project is: a laravel app with vue.js and vuetify
+- 🌱 My current project is: a Laracasts inspired CRUD blog
 
 - 📫 Contact me at: emil.aagaard8@gmail.com
 
