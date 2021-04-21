@@ -1,4 +1,4 @@
-- 👋 Hi, my name is @EBAdev
+- 👋 Hi, my name is Emil Beck Aagaard (@EBAdev)
 
 -  👨🏽‍💻 I have experience in ML but currently im learning web dev.
 
