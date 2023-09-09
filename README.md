@@ -1,14 +1,12 @@
 - 👋 Hi, my name is Emil Beck Aagaard (@EBAdev)
 
--  👨🏽‍💻 I have experience in ML but currently im learning web dev.
+-  👨🏽‍💻 I have experience in ML but currently i am doing data science at Aarhus University.
 
-- 🌱 My current project is: a Laracasts inspired CRUD blog
+- 🌱 My current project is: a fully fleged finance python module
 
 - 📫 Contact me at: emil.aagaard8@gmail.com
 
-- 👀 Looking for opensouce repos that need contributing
-
-- 📚 I've written code in: Processing (Java), basic web dev (HTML, PHP, CSS and MySql) 
+- 📚 I've written code in: Python, Latex, Processing (Java), basic web dev (HTML, PHP, CSS and MySql) 
 
 <!---
 EBAdev/EBAdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
