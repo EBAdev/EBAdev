@@ -2,7 +2,7 @@
 
 -  👨🏽‍💻 I have experience in ML but currently i am doing data science at Aarhus University.
 
-- 🌱 My current project is: a fully fleged finance python module
+- 🌱 My current project is: A MNIST handwriting recognizer
 
 - 📫 Contact me at: emil.aagaard8@gmail.com
 
