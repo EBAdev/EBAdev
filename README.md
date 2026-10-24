@@ -1,11 +1,24 @@
-👋 Hi, my name is Emil Beck Aagaard (@EBAdev)
+# 👋 Hi, I'm Emil Beck Aagaard (@EBAdev)
 
--  👨🏽‍💻 I am a math-econ student @ Aarhus University.
+🎓 MSc student in **Mathematics-Economics at Aarhus University**, specializing in Mathematical Finance.
 
-- 📫 Contact me at: emil.aagaard8@gmail.com
+💻 Currently working as a **Junior Risk Analyst at Danske Commodities**, where I develop Python and SQL tools for risk monitoring, analysis, and reporting in energy trading.
 
-- 📚 I currently use Python with dash for developing risk analysis tools for Danske Commodities
-<!---
-EBAdev/EBAdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔬 Interests
+- Quantitative finance and mathematical modelling
+- Stochastic calculus, derivatives pricing, and risk modelling
+- Energy and commodity markets
+- Algorithmic trading and data-driven strategies
+
+### 🛠️ Technologies
+- **Languages:** Python, SQL, R
+- **Tools:** Git, Bash, Linux
+- **Areas:** Statistical modelling, data analysis, and quantitative risk tools
+- 
+### 📚 Currently Learning
+- **C++** Expanding my programming skills by building a Limit Order Book.
+
+### 📫 Get in touch
+- Email: [emil.aagaard@icloud.com](mailto:emil.aagaard@icloud.com)
+- GitHub: [@EBAdev](https://github.com/EBAdev)
+
